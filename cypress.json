@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://54.255.188.220/AgencySMP",
+    "env": {
+        "MTL_AGENCY_SMP_VERSION": "Agency SMP Version 1.0.0.0"
+    }
+}

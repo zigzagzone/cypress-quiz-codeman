@@ -1,0 +1,5 @@
+{
+    "getToken": "/api/Auth/GetToken",
+    "checkVersion": "/api/Version",
+    "loadSettings": "/api/Setting/LoadSettings"
+}

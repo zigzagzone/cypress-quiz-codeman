@@ -1,0 +1,8 @@
+{
+  "name": "cypress-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
